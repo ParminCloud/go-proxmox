@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/luthermonson/go-proxmox"
+	"github.com/ParminCloud/go-proxmox"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
